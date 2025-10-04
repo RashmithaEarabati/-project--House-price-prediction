@@ -5,7 +5,7 @@ A machine learning project that predicts house prices based on historical data a
 
 ## 📌 Project Overview
 
-The goal of this project is to build a predictive model that can estimate the selling price of a house based on various factors such as location, size, number of rooms, and more. It is a classic regression problem often used to understand the workflow of ML pipelines.
+This project aims to predict house prices based on various factors such as location, size, number of rooms, and other property features. By leveraging machine learning algorithms, it helps in estimating property values more efficiently and supports better decision-making in real estate analysis.
 
 > 💡 *“Turning housing data into real-world insights.”*
 
@@ -24,6 +24,13 @@ The goal of this project is to build a predictive model that can estimate the se
 - Feature selection and engineering  
 - Linear Regression, Decision Tree, Random Forest models  
 - Model evaluation using RMSE, R² Score
+🔄 Workflow
+
+1.Data Collection & Cleaning – Handling missing values and outliers.
+2.Feature Engineering – Selecting key features affecting prices.
+3.Model Building – Training and testing multiple ML models.
+4.Evaluation & Optimization – Comparing model performance.
+5.Prediction – Providing accurate house price estimates.
 
 ## 📊 Sample Insights
 
