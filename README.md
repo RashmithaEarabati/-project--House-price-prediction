@@ -42,7 +42,7 @@ This project aims to predict house prices based on various factors such as locat
 
 - **Source:** [Kaggle House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)  
 - Columns include:  
-  - `LotArea`, `YearBuilt`, `TotalRooms`, `GarageType`, `Neighborhood`, etc.  
+  - `LotArea`, `YearBuilt`, `TotalRooms`, `GarageType`, `Neighborhood`, 'Near by landmarks','etc'; 
   - `SalePrice` (Target)
 
 ## 🚀 How to Run
